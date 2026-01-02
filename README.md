@@ -1,13 +1,30 @@
-# 👋 ¡Hola, soy Mariana!  
+# 👋 ¡Hola, soy Mariana Verdugo!
 
--  Apasionada por la **Inteligencia Artificial**, la **analítica de datos** 📊 y la **automatización con Python** 🐍.  
-Me gusta crear proyectos que unan la tecnología con la resolución de problemas reales 🚀 y me permitan seguir aprendiendo sobre diferentes temas, técnicas y herramientas. 
+Soy egresada de la Licenciatura en Analítica de Negocios, con interés en el análisis y la ciencia de datos.  
+Este perfil documenta mi proceso de formación continua a través de proyectos prácticos y desarrollo de habilidades técnicas.
 
-## 🌱 Sobre mí  
-- 🎓 Actualmente me encuentro desarrollando proyectos de **IA y scraping con Selenium**.
-- 📚 Siempre aprendiendo sobre **machine learning, analítica de negocios, visualización de datos** y **estadística**.  
-- 🤝 Abierta a colaborar en proyectos interesantes relacionados con **IA, ciencia de datos y análisis**.  
+## 🔍 Áreas de interés
+- Ciencia de datos
+- Análisis y visualización de datos
+- Minería de datos
+- Inteligencia artificial y machine learning
+- Programación en Python
+- Automatización de procesos
+
+## 👨‍💻 Herramientas y tecnologías principales
+- Python
+- MySQL
+- R (RStudio)
+- Jupyter/Google Colab
+- VisualStudio Code
+
+## 📂 Proyectos
+Cada repositorio incluye:
+- Descripción del problema abordado
+- Enfoque y herramientas utilizadas
+- Resultados y aprendizajes obtenidos
+- Herramientas y tecnologías utilizadas
 
 ## 📫 Conecta conmigo  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)]([https://www.linkedin.com/in/tuusuario](https://www.linkedin.com/in/mariana-verdugo-7826362a2))  
-[![Gmail](https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white)](mailto:marianaverli@hotmail.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariana-verdugo-7826362a2)  
+[![Outlook](https://img.shields.io/badge/Outlook-0078D4?style=flat&logo=microsoft-outlook&logoColor=white)](mailto:marianaverli@hotmail.com)
