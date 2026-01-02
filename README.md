@@ -21,9 +21,9 @@ Este perfil documenta mi proceso de formación continua a través de proyectos p
 ## 📂 Proyectos
 Cada repositorio incluye:
 - Descripción del problema abordado
-- Enfoque y herramientas utilizadas
 - Resultados y aprendizajes obtenidos
 - Herramientas y tecnologías utilizadas
+- Datos, archivos importantes adicionales.
 
 ## 📫 Conecta conmigo  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://www.linkedin.com/in/mariana-verdugo-7826362a2)  
