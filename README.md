@@ -1,9 +1,8 @@
 <br>
 <p align="center">
-  <img src="./assets/Githubmariana.png" alt="Banner" />
+  <img src="./assets/Githubmariana.png" width="1000" alt="Banner" />
 </p>
 <br>
-
 
 # 👋 ¡Hola, soy Mariana Verdugo!
 
