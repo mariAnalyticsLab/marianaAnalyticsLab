@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/Githubmariana.png" alt="Banner" />
+</p>
+
 # 👋 ¡Hola, soy Mariana Verdugo!
 
 Soy egresada de la Licenciatura en Analítica de Negocios, con interés en el análisis y la ciencia de datos.  
